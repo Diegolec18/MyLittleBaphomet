@@ -1,0 +1,12 @@
+# ninja log v5
+55	418	7478794027904106	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	4894e393f8ef6d45
+420	569	7478794029935368	C:/Users/dleca/MyLittleBaphomet/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/q1l434o5/obj/arm64-v8a/libswappywrapper.so	73dda377fba74728
+19	1035	7478794034565343	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	20d5b0fd345e5696
+26	1040	7478794034648364	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	a300a6963af05927
+7	1067	7478794034922690	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	a43ed9c048090266
+47	1074	7478794035018216	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	d7d7a542e0255174
+39	1112	7478794035366002	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4d6fe7035a555260
+1	1173	7478794035986352	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	bc4bc5cdb1828a7e
+32	1299	7478794037258233	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c1a3cfd69154cc4f
+13	1444	7478794038633707	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	da8dadc598aedf79
+1444	1563	7478794039871598	C:/Users/dleca/MyLittleBaphomet/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/q1l434o5/obj/arm64-v8a/libgame.so	640aabda09c37004
